@@ -28,6 +28,6 @@ do
 
 done
 
-echo -e ${color} $number of pages successfully Created ${NC}
+echo -e ${color} Done!! ${NC}
 
 
