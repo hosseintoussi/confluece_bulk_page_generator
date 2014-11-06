@@ -5,9 +5,10 @@
 <user>admin</user>
 <pass>admin</pass>
 <totalOf>10</totalOf>
-# startFrom is not implemented yet
+<!-- startFrom is not implemented yet -->
 <startFrom>10</startFrom>
 <spaceKey>ED</spaceKey>
 <namePrefix>saeed</namePrefix>
+<!-- content is not implemented yet -->
 <content>page</content>
 </populator>
