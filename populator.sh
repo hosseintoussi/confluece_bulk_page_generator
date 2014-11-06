@@ -15,7 +15,7 @@ date=$(date +"%m-%d-%Y")
 
 echo -e ${color} $url ${NC}
 echo "$user"
-
+ 
 for (( c=1; c<=$number; c++ ))
 do
    
