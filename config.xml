@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<populator>
+<baseurl>http://localhost:8090</baseurl>
+<user>admin</user>
+<pass>admin</pass>
+<totalOf>10</totalOf>
+# startFrom is not implemented yet
+<startFrom>10</startFrom>
+<spaceKey>ED</spaceKey>
+<namePrefix>saeed</namePrefix>
+<content>page</content>
+</populator>
