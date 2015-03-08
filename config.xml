@@ -4,7 +4,7 @@
 <baseurl>http://localhost:8090</baseurl>
 <user>admin</user>
 <pass>admin</pass>
-<totalOf>100</totalOf>
+<totalOf>3000</totalOf>
 <!-- startFrom is not implemented yet -->
 <startFrom>1</startFrom>
 <spaceKey>ds</spaceKey>

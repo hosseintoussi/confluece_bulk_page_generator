@@ -2,7 +2,7 @@
 	color='\e[0;34m'
 	NC='\e[0m'
 
-	echo  -e "${color} Confluence content creator${NC}"
+	#echo  -e "${color} Confluence content creator${NC}"
 	number=$(grep -Po '<(totalOf>)\K.*?(?=</\1)' config.xml)
 	location=$(grep -Po '<(location>)\K.*?(?=</\1)' config.xml)
 	startFrom=$(grep -Po '<(startFrom>)\K.*?(?=</\1)' config.xml)
